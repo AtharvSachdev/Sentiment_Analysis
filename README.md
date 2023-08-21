@@ -12,7 +12,6 @@ This repository contains a Python script that performs sentiment analysis on tex
 ## Files and Structure
 
 - `sentiment_analysis.py`: The main Python script for sentiment analysis.
-- `sentiment_analysis.exe`: The main application for sentiment analysis.
 - `Twitter_Data.csv`: The dataset used for sentiment analysis.
 - `requirements.txt`: List of required Python packages for running the script.
 - `README.md`: Detailed information about the repository, setup, and usage.
@@ -25,7 +24,11 @@ This repository contains a Python script that performs sentiment analysis on tex
 
 pip install -r requirements.txt
 
-Run the sentiment analysis application .
+Run the sentiment analysis script :
+
+python sentiment_analysis.py
+
+
 
 ## Dataset
 
